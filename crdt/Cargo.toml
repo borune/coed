@@ -1,0 +1,12 @@
+[package]
+name = "crdt"
+version = "0.1.0"
+authors = ["Rune Taj Clemens Petersen <runetcp@gmail.com>"]
+
+[dependencies]
+transport = { path = "../transport"}
+toml = "*"
+ditto = "*"
+serde = "1.0"
+serde_json = "*"
+serde_derive = "1.0"

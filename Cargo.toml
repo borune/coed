@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "editor",
+    "terminal",
+    "crdt",
+    "transport",
+    "tests",
+]

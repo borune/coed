@@ -1,0 +1,6 @@
+[package]
+name = "tests"
+version = "0.1.0"
+authors = ["Rune Taj Clemens Petersen <runetcp@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,6 @@
+node = 2
+crdt = "coed_01"
+ip = "127.0.0.1"
+port = "8002"
+other_ip = "127.0.0.1"
+other_port = "8000"

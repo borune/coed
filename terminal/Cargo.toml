@@ -1,0 +1,12 @@
+[package]
+name = "terminal"
+version = "0.1.0"
+authors = ["Rune Taj Clemens Petersen <runetcp@gmail.com>"]
+
+[dependencies]
+termion = "*"
+serde = "1.0"
+serde_derive = "1.0"
+toml = "*"
+ditto = "*"
+serde_json = "*"
