@@ -1,6 +1,6 @@
 # Collaborative Terminal Editor Written in Rust
 ## Abstract
-Optimistic approaches to share data is gaining attention with database solutions like Riak and collaborative editors. And it has its properties to back it with immediately response of the local data type and it being conflict-free. This report implements a CRDT, a network stack and a terminal to make a collaborative editor. The projects show that is possible to integrate and have functional editor.
+Optimistic approaches to share data is gaining attention with database solutions like Riak and collaborative editors. And it has its properties to back it with immediately response of the local data type and it being conflict-free. This project implements a Conflictfree Replicated Data Type (CRDT), a network stack and a terminal to make a collaborative editor. The projects show that is possible to integrate and have functional editor written in Rust using the Ditto library.
 
 ## Compile and run the editors in seperate shells
 ```
