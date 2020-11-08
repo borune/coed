@@ -10,6 +10,7 @@ cargo run -p coeditor node_b.toml
 cargo run -p coeditor node_c.toml
 ```
 
+![](crdt_demo.gif)
 
 ## Testing
 ```
