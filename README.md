@@ -2,7 +2,7 @@
 ## Abstract
 Optimistic approaches to share data is gaining attention with database solutions like Riak and collaborative editors. And it has its properties to back it with immediately response of the local data type and it being conflict-free. This project implements a Conflictfree Replicated Data Type (CRDT), a network stack and a terminal to make a collaborative editor. The projects show that is possible to integrate and have functional editor written in Rust using the Ditto library.
 
-The whole project is described in details in BSc_Project.pdf and is written in collaboration with Oliver Malling.
+The whole project is described in details in the file "Project report.pdf" and is written in collaboration with Oliver Malling Laursen as our bachelor thesis.
 
 ## Compile and run the editors in seperate shells
 ```
